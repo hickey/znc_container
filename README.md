@@ -14,7 +14,7 @@ This container operates exactly like the official ZNC container
 file is not found, a default file will be installed with the following
 settings:
 
-    Port: 6697 (IRC) / 443 (HTTPS)
+    Port: 6697 (IRC) / 8443 (HTTPS)
     User: admin
     Pass: admin
     IPv4: true
